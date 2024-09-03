@@ -1,5 +1,5 @@
 # personal-home
-personal webpage [https://marshel.netlify.app](me)
+personal webpage https://marshel.netlify.app
 
 hugo server -D
 
