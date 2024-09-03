@@ -1,9 +1,8 @@
 # personal-home
-personal webpage
+personal webpage [https://marshel.netlify.app](me)
 
 hugo server -D
 
-Reference : https://vscode.dev/github/zerodha/nithinkamath.me
 
 
 ## Notes 
